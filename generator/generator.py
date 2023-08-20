@@ -1,6 +1,6 @@
 import random
 
-from data.data import Person, Color,Date
+from data.data import Person, Color, Date
 
 from faker import Faker
 
