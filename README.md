@@ -1,8 +1,5 @@
 # Projects
 автотест сайта тест qa aka https://demoqa.com/
+In this project I am automating the user interface demoqa.com
 
-13/08 Finish at
-
-20/08 start adding allure
-
-elements_test.py + allure
+and add allure
